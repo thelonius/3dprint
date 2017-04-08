@@ -1,0 +1,113 @@
+#-------------------------------
+# General Site Settings
+
+title: ED's cabin
+description: learning to maintain maintainability
+email: dubnitsky@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: Обо мне, url: '#about-me'}
+- {name: Работы, url: '#work'}
+- {name: Кейсы, url: '#clients'}
+- {name: Контакты, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Eds cabin'
+  rel-author: 'https://plus.google.com/+%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9'
+  rel-publisher: 'https://plus.google.com/+%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  ### 3d моделлер и CAM оператор ###
+
+  и использую в своей работе
+  *rhino/rasshopper, autodesk fusion 360, openscad, sketchup, repetier, slic3r, reprap*.
+
+    иллюстрирую и рисую [интерфейсы, айдентику веб-приложений](https://www.behance.net/cloaklocker){:target="_blank"}
+    записываю с друзьями атмосферный [ambient](https://soundcloud.com/yan-yamin){:target="_blank"}
+    и снимаю [видео](https://www.youtube.com/user/dubnitsky/featured){:target="_blank"} о моих проектах
+
+skills:
+- {name: 3D моделлинг, value: '7'}
+- {name: векторный рисунок, value: '8'}
+- {name: моделлинг по фотографии, value: '7'}
+- {name: Обучение, value: '9'}
+- {name: Планирование и организация, value: '7'}
+- {name: Визуальный дизайн, value: '8'}
+- {name: UX дизайн, value: '8'}
+- {name: Программирование, value: '4'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Крепление стульчага для унитаза, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Обтекатель для переделки мотоцикла в caferacer, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Крепление батареи на квадрокоптере, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Фигурная ваза, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Моделирование и изготовление детали для замка чемодана, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Крепление мобильного телефона, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Моделлинг корпуса электромоноцикла, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Моделлинг параметрических объектов, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aaroni.jpg',
+  name: 'Scott Summers',
+  title: 'Director of Design, OnToText Ind.',
+  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  logo: 'logo1.png'}
+- {avatar: 'face-atariboy.jpg',
+  name: 'Hank McCoy',
+  title: 'Eater of Salad, Antartica Int.',
+  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  logo: 'logo2.png'}
+- {avatar: 'face-jackiesaik.jpg',
+  name: 'Stacy Lang',
+  title: 'Social Media Girl, Quebec Int.',
+  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  logo: 'logo3.png'}
+- {avatar: 'face-teleject.jpg',
+  name: 'Cleatus Cassidy',
+  title: 'VP of Helmut, Lorem Sorem LLC.',
+  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+  logo: 'logo4.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/edubnitsky'}
+
+- {icon: 'behance', link: 'https://www.behance.net/cloaklocker'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCKG9yRkJ5Vnk6ug3mzwumNw'}
+- {icon: 'facebook', link: 'http://www.facebook.com/dubnitsky'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
