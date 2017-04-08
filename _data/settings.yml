@@ -63,13 +63,13 @@ skills:
 
 projects:
 - {name: Крепление стульчага для унитаза, folder: 'proj-1', file: 'work/proj-1.html'}
-#- {name: Обтекатель для переделки мотоцикла в caferacer, folder: 'proj-2', file: 'work/proj-2.html'}
-#- {name: Крепление батареи на квадрокоптере, folder: 'proj-3', file: 'work/proj-3.html'}
-#- {name: Фигурная ваза, folder: 'proj-4', file: 'work/proj-4.html'}
-#- {name: Моделирование и изготовление детали для замка чемодана, folder: 'proj-5', file: 'work/proj-5.html'}
-#- {name: Крепление мобильного телефона, folder: 'proj-6', file: 'work/proj-6.html'}
-#- {name: Моделлинг корпуса электромоноцикла, folder: 'proj-7', file: 'work/proj-7.html'}
-#- {name: Моделлинг параметрических объектов, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Обтекатель для переделки мотоцикла в caferacer, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Крепление батареи на квадрокоптере, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Фигурная ваза, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Моделирование и изготовление детали для замка чемодана, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Крепление мобильного телефона, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Моделлинг корпуса электромоноцикла, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Моделлинг параметрических объектов, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 

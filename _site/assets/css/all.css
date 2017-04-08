@@ -849,6 +849,27 @@ footer {
 #proj-1:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-1 {
   display: block; }
 
+#proj-2:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-2 {
+  display: block; }
+
+#proj-3:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-3 {
+  display: block; }
+
+#proj-4:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-4 {
+  display: block; }
+
+#proj-5:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-5 {
+  display: block; }
+
+#proj-6:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-6 {
+  display: block; }
+
+#proj-7:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-7 {
+  display: block; }
+
+#proj-8:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-8 {
+  display: block; }
+
 .return {
   display: none; }
 
