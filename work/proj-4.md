@@ -6,6 +6,6 @@ title: ФИГУРНАЯ ДЕКОРАТИВНАЯ ВАЗА
 ![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/setup.jpg)
 ![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/printing_vase.jpg)
 ![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/printing_vase_process.jpg)
-![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/printing_twisted_vase.jpg)
+![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/printed_twisted_vase.jpg)
 Материал - PLA бесцветный прозрачный.
 ![ДЕКОРАТИВНАЯ ВАЗА]({{ site.github.url }}/assets/img/work/proj-4/vase_print.jpg)

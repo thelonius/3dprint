@@ -1,5 +1,5 @@
 ---
-title: "ПАРАМЕТРИЧЕСКОЕ МОДЕЛИРОВАНИЕ"
+title: "parametric modelling"
 ---
 --- В сердце многих дизайнеров и моделлеров нового поколения уже есть ответ на требования современного рынка заказов.
 ![parametric modelling]({{ site.github.url }}/assets/img/work/proj-8/grasshopper_modelling.jpg)
