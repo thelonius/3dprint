@@ -979,8 +979,13 @@ footer {
     line-height: 1.2;
     margin: 0 0 20px; }
   .work-container p {
-    max-width: 40%;
-    margin-bottom: 20px; }
+    display: block;
+    max-width: 960px;
+    margin: 0px auto; }
+    .work-container p:after {
+      content: "";
+      display: table;
+      clear: both; }
   .work-container img {
     max-width: 100%;
     margin-bottom: 20px; }
