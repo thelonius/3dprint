@@ -10,7 +10,6 @@ email: dubnitsky@gmail.com
 menu:
 - {name: Обо мне, url: '#about-me'}
 - {name: Работы, url: '#work'}
-- {name: Кейсы, url: '#clients'}
 - {name: Контакты, url: '#contact'}
 
 #-------------------------------
